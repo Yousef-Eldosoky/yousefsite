@@ -77,3 +77,27 @@
   #contact .contact-info a:hover {
     color: #2980b9;
   }
+
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #fff;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+  }
+  
+  /* Optional: Different colors for backend and frontend buttons */
+  .btn-backend {
+    background-color: #545b62; /* Blue for backend */
+    border-color: #545b62;
+    color: white;
+  }
+  
+  .btn-frontend {
+    background-color: #28a745; /* Green for frontend */
+    border-color: #28a745;
+    color: white;
+  }
